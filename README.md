@@ -6,7 +6,7 @@
 
 ## ⚠️ WARNING ⚠️
 
-This project is based on microservices architecture and no longer maintained. I've stopped using the workflow that made it relevant to me.
+I've stopped using the workflow that made it relevant to me.
 
 ---
 
