@@ -4,19 +4,15 @@
 
 ---
 
-## ⚠️ WARNING ⚠️
-
-I've stopped using the workflow that made it relevant to me.
-
----
-
 ## Links:
 
-npm utility package --> https://www.npmjs.com/package/@apa_malaghe/utility
+### [npm utility package](https://github.com/apakhbari/Malaghe-BE)
 
-github: malaghe_utility --> https://github.com/apakhbari/malaghe-k8s-utility
+### [Malaghe BackEnd](https://github.com/apakhbari/Malaghe-BE)
 
-github: malaghe --> https://github.com/apakhbari/malaghe-k8s
+### [Malaghe FrontEnd](https://github.com/apakhbari/Malaghe-FE)
+
+### [malaghe k8s + Skaffold (NOT MAINTAINED)](https://github.com/apakhbari/malaghe-k8s)
 
 ---
 
