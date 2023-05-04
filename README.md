@@ -8,7 +8,7 @@
 
 ### [npm utility package](https://www.npmjs.com/package/@apa_malaghe/utility)
 
-### [Malaghe BackEnd](https://github.com/apakhbari/Malaghe-BE), ### [Malaghe FrontEnd](https://github.com/apakhbari/Malaghe-FE)
+### [Malaghe BackEnd](https://github.com/apakhbari/Malaghe-BE), [Malaghe FrontEnd](https://github.com/apakhbari/Malaghe-FE)
 
 ### [malaghe k8s + Skaffold (NOT MAINTAINED)](https://github.com/apakhbari/malaghe-k8s)
 
